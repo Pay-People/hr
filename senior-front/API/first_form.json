@@ -1,0 +1,23 @@
+{
+  "type": "Form",
+
+  "components": {
+
+    "fio" : {
+      "type": "Input",
+      "settings": {
+        "placeholder" : "ФИО"
+      },
+      "data": ""
+    },
+
+    "ok" : {
+      "type": "Button",
+      "settings": {
+        "action" : "/uri-to-send-form"
+      },
+      "data": "Текст на кнопке"
+    }
+  }
+
+}

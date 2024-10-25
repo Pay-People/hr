@@ -1,3 +1,4 @@
 # Тестовые задания
 
-- [Senior front developer](senior-front.md)
+- [senior-front.md](senior-front%2Fsenior-front.md)
+

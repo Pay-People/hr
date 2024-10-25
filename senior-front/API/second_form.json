@@ -1,0 +1,31 @@
+{
+  "type": "Form",
+
+  "components": {
+
+    "first_name" : {
+      "type": "Input",
+      "settings": {
+        "placeholder" : "Имя"
+      },
+      "data": ""
+    },
+
+    "second_name" : {
+      "type": "Input",
+      "settings": {
+        "placeholder" : "Фамилия"
+      },
+      "data": ""
+    },
+
+    "ok" : {
+      "type": "Button",
+      "settings": {
+        "action" : "/another-uri-to-send-form"
+      },
+      "data": "Текст на кнопке"
+    }
+  }
+
+}
