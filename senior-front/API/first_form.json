@@ -13,9 +13,6 @@
 
     "ok" : {
       "type": "Button",
-      "settings": {
-        "action" : "/uri-to-send-form"
-      },
       "data": "Текст на кнопке"
     }
   }

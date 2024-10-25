@@ -21,9 +21,6 @@
 
     "ok" : {
       "type": "Button",
-      "settings": {
-        "action" : "/another-uri-to-send-form"
-      },
       "data": "Текст на кнопке"
     }
   }
