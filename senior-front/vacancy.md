@@ -7,7 +7,7 @@
 
 ## Используем в работе
 
-- React, AntDesign, Effector, TypeScript, Storybook
+- React, AntDesign, Effector, TypeScript, Vite, Storybook
 - FSD
 - Github Actions CI/CD
 - Figma
